@@ -57,5 +57,3 @@ graph LR
 
 - [ ] Add Auto Scaling + Load Balancer for high availability
 - [ ] Move to containerized deployment (Docker)
-- [ ] Add automated testing stage to the Jenkins pipeline
-- [ ] Deploy a self-built project (Food Wastage Management System) through this same pipeline
